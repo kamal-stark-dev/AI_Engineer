@@ -1,6 +1,9 @@
-# learn_with_kamalveer
+# AI Engineer
+
 learning goes brrrrr.....
 
-> NOTE: this repository is separate from my [Learning](https://github.com/kamal-stark-dev/learning) repository.
+> NOTE: This repo contains all the things which I am learning and building related to AI.
+>
+> ~_^ (if you are wondering it's a wink.) 
 
 ![](https://media.tenor.com/-okNQnqkPtwAAAAd/dani-what.gif)
