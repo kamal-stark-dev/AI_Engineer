@@ -1,0 +1,54 @@
+{
+  "popularCharacters":[
+      {
+         "name":"Monkey D. Luffy",
+         "pirateCrew":"Straw Hat Pirates",
+         "gender":"Male"
+      },
+      {
+         "name":"Roronoa Zoro",
+         "pirateCrew":"Straw Hat Pirates",
+         "gender":"Male"
+      },
+      {
+         "name":"Boa Hancock",
+         "pirateCrew":"Kuja Pirates",
+         "gender":"Female"
+      },
+      {
+         "name":"Trafalgar Law",
+         "pirateCrew":"Heart Pirates",
+         "gender":"Male"
+      },
+      {
+         "name":"Sanji",
+         "pirateCrew":"Straw Hat Pirates",
+         "gender":"Male"
+      },
+      {
+         "name":"Nami",
+         "pirateCrew":"Straw Hat Pirates",
+         "gender":"Female"
+      },
+      {
+         "name":"Nico Robin",
+         "pirateCrew":"Straw Hat Pirates",
+         "gender":"Female"
+      },
+      {
+         "name":"Usopp",
+         "pirateCrew":"Straw Hat Pirates",
+         "gender":"Male"
+      },
+      {
+         "name":"Tony Tony Chopper",
+         "pirateCrew":"Straw Hat Pirates",
+         "gender":"Male"
+      },
+      {
+         "name":"Jinbe",
+         "pirateCrew":"Straw Hat Pirates",
+         "gender":"Male"
+      }
+   ]
+}
